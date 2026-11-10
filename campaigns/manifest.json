@@ -4,10 +4,24 @@
     "gmx": {
       "banner": "campaigns/gmx/banner.jpg",
       "link": "https://gmxgroup.com",
-      "version": "20261110-171756-65el",
-      "updated": "2026-11-10T20:17:56.668Z",
-      "archive": "campaigns/gmx/archive/20261110-171756-65el.jpg"
+      "version": "20261110-180939-s3d1",
+      "updated": "2026-11-10T21:09:39.206Z",
+      "archive": "campaigns/gmx/archive/20261110-180939-s3d1.jpg"
+    },
+    "maximo": {
+      "banner": "campaigns/maximo/banner.jpg",
+      "link": "https://maximowood.com",
+      "version": "20261110-180939-s3d1",
+      "updated": "2026-11-10T21:09:39.206Z",
+      "archive": "campaigns/maximo/archive/20261110-180939-s3d1.jpg"
+    },
+    "lumber": {
+      "banner": "campaigns/lumber/banner.jpg",
+      "link": "https://www.lumberplus.com/",
+      "version": "20261110-180939-s3d1",
+      "updated": "2026-11-10T21:09:39.206Z",
+      "archive": "campaigns/lumber/archive/20261110-180939-s3d1.jpg"
     }
   },
-  "updated": "2026-11-10T20:17:56.668Z"
+  "updated": "2026-11-10T21:09:39.206Z"
 }
