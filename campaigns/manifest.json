@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "brands": {
+    "gmx": {
+      "banner": "campaigns/gmx/banner.jpg",
+      "link": "https://gmxgroup.com",
+      "version": "20261110-171756-65el",
+      "updated": "2026-11-10T20:17:56.668Z",
+      "archive": "campaigns/gmx/archive/20261110-171756-65el.jpg"
+    }
+  },
+  "updated": "2026-11-10T20:17:56.668Z"
+}
